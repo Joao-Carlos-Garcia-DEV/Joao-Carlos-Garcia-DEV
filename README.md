@@ -20,9 +20,8 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <img align="center" alt="JCG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JCG-Oracle" height="30" width="40" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="JCG-PL/SQL" height="30" width="40" src="https://lh3.googleusercontent.com/-nmDUsmgtNd0/VhlmK6fK-fI/AAAAAAAALnw/Gbfa2mFP0vM/PLSQL%2525202%252520sm.jpg?imgmax=800">
-  <img align="center" alt="JCG-DB2" height="30" width="40" src="https://icons.veryicon.com/png/o/education-technology/onemind/db2.png">
-  
-  
+  <img align="center" alt="JCG-Adabas" height="30" width="40" src="https://global.discourse-cdn.com/techcommunity/optimized/2X/1/17c315b7066fbc4914e1fb9b203b201d42acef0f_2_1024x369.jpeg">  
+  <img align="center" alt="JCG-Adabas" height="30" width="40" src=
 </div>
 <!---
 Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
