@@ -1,15 +1,12 @@
 - 👋 Hi, I’m João Carlos Garcia, Technology professional from last millenium until the end of world  !!!
 Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s, coding again, and that´s incredible, works
   
-- <img width="135" alt="image" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/49549a45-bf2e-4bdb-836b-61bb82b7c2b6">
+- <img width="100" alt="image" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/49549a45-bf2e-4bdb-836b-61bb82b7c2b6">
 
 - 👀 I’m interested in anything new for all proposal. TECH IS BEAUTIFUL !!!
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React & AWS
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <div style="display: inline_block"><br>
