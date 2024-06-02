@@ -36,13 +36,13 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   
   <img align="center" alt="JCG-AWS" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <br></br>
-  
-  <img align="center" alt="JCG-Oracle" height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+
+  <img align="center" alt="JCG-Oracle" height="80" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/oracle/oracle-original.svg">
+
   <img align="center" alt="JCG-PL/SQL" height="30" width="80" src="https://lh3.googleusercontent.com/-nmDUsmgtNd0/VhlmK6fK-fI/AAAAAAAALnw/Gbfa2mFP0vM/PLSQL%2525202%252520sm.jpg?imgmax=800">
   <img align="center" alt="JCG-SqlDev" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
   
   <img align="center" alt="JCG-MsSql" height="30" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-  <img align="center" alt="JCG-Oracle" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/oracle/oracle-original.svg">
   
   <img align="center" alt="JCG-MongoDB" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="JCG-MySQL" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
