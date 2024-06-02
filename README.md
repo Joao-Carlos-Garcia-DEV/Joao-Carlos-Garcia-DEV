@@ -38,7 +38,8 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <br></br>
 
   <img align="center" alt="JCG-Oracle" height="80" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/oracle/oracle-original.svg">
-
+  <source media="(prefers-color-scheme: blue)" srcset="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/oracle/oracle-original.svg">
+  
   <img align="center" alt="JCG-PL/SQL" height="30" width="80" src="https://lh3.googleusercontent.com/-nmDUsmgtNd0/VhlmK6fK-fI/AAAAAAAALnw/Gbfa2mFP0vM/PLSQL%2525202%252520sm.jpg?imgmax=800">
   <img align="center" alt="JCG-SqlDev" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
   
@@ -48,8 +49,8 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <img align="center" alt="JCG-MySQL" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <br></br>
 
-  <img align="center" alt="JCG-Salesforce" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/salesforce/salesforce-original.svg">
-  <br></br>
+  <img align="center" alt="JCG-Salesforce" height="30" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="JCG-SAP" height="30" width="70" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/blob/main/Logo_SAP.png">
   
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/b9316bb9-49f4-4098-913c-70e6ab38be55">
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://global.discourse-cdn.com/techcommunity/optimized/2X/1/17c315b7066fbc4914e1fb9b203b201d42acef0f_2_1024x369.jpeg">  
