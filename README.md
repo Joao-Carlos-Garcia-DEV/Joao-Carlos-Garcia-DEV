@@ -11,9 +11,11 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
 <div style="display: inline_block"><br>
   <img align="center" alt="JCG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JCG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JCG-Node" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="JCG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JCG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JCG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JCG-Unix" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/unix/unix-original.svg">
   <img align="center" alt="JCG-MongoDB" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="JCG-MySQL" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   
