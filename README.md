@@ -14,6 +14,9 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <img align="center" alt="JCG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JCG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JCG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JCG-MongoDB" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="JCG-MySQL" height="30" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  
   <img align="center" alt="JCG-Oracle" height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="JCG-PL/SQL" height="30" width="80" src="https://lh3.googleusercontent.com/-nmDUsmgtNd0/VhlmK6fK-fI/AAAAAAAALnw/Gbfa2mFP0vM/PLSQL%2525202%252520sm.jpg?imgmax=800">
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/b9316bb9-49f4-4098-913c-70e6ab38be55">
