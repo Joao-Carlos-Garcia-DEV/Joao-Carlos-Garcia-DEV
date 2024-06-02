@@ -6,7 +6,6 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
 - 👀 I’m interested in anything new for all proposal. TECH IS BEAUTIFUL !!!
 
 - 🌱 I’m currently learning React & AWS
-- 📫 How to reach me ...
 
 
 <div style="display: inline_block"><br>
