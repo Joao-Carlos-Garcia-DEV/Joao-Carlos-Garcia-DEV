@@ -8,7 +8,8 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
 
 - 🌱 I’m currently learning React, Salesforce & AWS
 
-<p> background-color="white" 
+<div background-color=white>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="JCG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JCG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -52,7 +53,7 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/b9316bb9-49f4-4098-913c-70e6ab38be55">
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://global.discourse-cdn.com/techcommunity/optimized/2X/1/17c315b7066fbc4914e1fb9b203b201d42acef0f_2_1024x369.jpeg">  
-</p>    
+ </div>    
 </div>
 <!---
 Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
