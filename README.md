@@ -1,7 +1,5 @@
-<link rel="stylesheet" href="style.css">
+<picture> <background-color: #FFFFFF>
 
-<div class="bg">
- 
 👋 Hi, I’m João Carlos Garcia, Technology professional from last millenium until the end of world  !!!
 Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s, coding again, testing and that´s incredible, this works !!!
 
@@ -9,7 +7,7 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
 
 <br></br>
 
-- 🌱 I’m currently learning React, Salesforce & AWS
+🌱 I’m currently learning React, Salesforce & AWS
  
 <div style="display: inline_block" background-color: #FFFAFA><br>
   <img align="center" alt="JCG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -55,7 +53,8 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <img align="center" alt="JCG-Adabas" height="30" width="80" src="https://global.discourse-cdn.com/techcommunity/optimized/2X/1/17c315b7066fbc4914e1fb9b203b201d42acef0f_2_1024x369.jpeg">  
   
 </div>
-</div>
+</picture>
+
 <!---
 Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
