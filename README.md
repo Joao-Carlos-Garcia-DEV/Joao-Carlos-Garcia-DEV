@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <div class="bg">
  
 👋 Hi, I’m João Carlos Garcia, Technology professional from last millenium until the end of world  !!!
@@ -6,8 +8,6 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
 <img align="center" width="200" alt="image" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/assets/161158622/49549a45-bf2e-4bdb-836b-61bb82b7c2b6">
 
 <br></br>
-
-- 👀 I’m interested in new Technology in general !
 
 - 🌱 I’m currently learning React, Salesforce & AWS
  
