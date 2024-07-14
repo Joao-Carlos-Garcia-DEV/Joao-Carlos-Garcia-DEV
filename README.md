@@ -37,6 +37,7 @@ Since 1987 coding, testing, coding, implement, coding, make a lot of mistake´s,
   <img align="center" alt="JCG-MySQL" height="50" width="60" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <br></br>
   <img align="center" alt="JCG-Unix" height="40" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/unix/unix-original.svg">
+  <img align="center" alt="JCG-HPUX" height="40" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/Joao-Carlos-Garcia-DEV/blob/main/hpux.jpg">
   <img align="center" alt="JCG-Linux" height="40" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="JCG-Ubuntu" height="40" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg">
   <img align="center" alt="JCG-SSH" height="40" width="40" src="https://github.com/Joao-Carlos-Garcia-DEV/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
